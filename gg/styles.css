@@ -22,7 +22,6 @@ body {
     font-family: system-ui, -apple-system, -apple-system-font, 'Segoe UI', 'Roboto', sans-serif;
     box-sizing: border-box;
     height: 100%;
-    text-transform:uppercase;
     width:100%;
     overflow: hidden;
 }
